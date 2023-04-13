@@ -19,7 +19,7 @@
     "node": ">=16"
   },
   "dependencies": {
-    "@angular/animations": "~15.2.2",
+    "@angular/animations": "~15.2.7",
     "@angular/cdk": "^15.2.2",
     "@angular/common": "^15.2.5",
     "@angular/compiler": "^15.2.5",
